@@ -1,3 +1,21 @@
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
+
+.h-05 {
+	height: 0.125rem;
+}
+
+.max-w-xl {
+	max-width: 1200px;
+}
+
+tr:last-child {
+	border: none !important;
+}
+
+.fee-input:focus + p,
+.fee-input:active + p,
+.fee-input.filled + p {
+	color: #029383;
+}

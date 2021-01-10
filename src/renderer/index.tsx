@@ -9,4 +9,4 @@ if (module.hot) {
 	module.hot.accept();
 }
 
-render(<App />, document.querySelector("#app"));
+render(<App />, document.getElementById("app"));
