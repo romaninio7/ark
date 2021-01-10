@@ -1,3 +1,7 @@
+# Project value
+
+Project uses tailwind for different breakpoints, React + Typescript + Electron.
+
 # Run dev
 
 npm run dev
@@ -6,6 +10,6 @@ npm run dev
 
 npm run test
 
-# and build
+# Compile and build
 
 npm run dist
