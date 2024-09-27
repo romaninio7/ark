@@ -1,0 +1,3 @@
+files:
+  - source: /fr/quiz.json
+    translation: /fr/%original_file_name%/%two_letters_code%/
